@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <project name= "sample project" default="info">
-<tartget name="info">
+<target name="info">
 <echo> hello world - welcome to Simplelearn Devops </echo>
 </target>
 </project>
